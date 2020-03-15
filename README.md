@@ -5,14 +5,14 @@ This is the world map for all active running Zentanodes which is broadcast live.
 
 ### Maps:
 
-### Europe
+#### Europe
 
 ------
 
-### US,Canada & Mexico
+#### US,Canada & Mexico
 
 -------
 
-### Latin America & SE-Asia
+#### Latin America & SE-Asia
 
 -------
