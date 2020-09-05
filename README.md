@@ -1,7 +1,5 @@
-## Zentamesh-Map
-
+## Zentameshnet Map
 This is the world map for all active running Zentanodes which is broadcast live.
-
 
 ### Maps:
 
